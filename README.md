@@ -78,7 +78,6 @@ This runtime powers [OpenClaw](https://github.com/Dev-next-gen) — an autonomou
 - 80B model handles reconnaissance strategy
 - 14B model coordinates scanning phases
 - Multiple 7B agents execute parallel scans
-- Findings validated up to Critical severity / $10k
 
 ## Directory Structure
 
